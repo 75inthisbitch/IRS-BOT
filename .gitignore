@@ -1,0 +1,6 @@
+config.json
+companies.sqlite3
+__pycache__/
+*.py[cod]
+.venv/
+venv/

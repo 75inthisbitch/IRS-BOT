@@ -1,0 +1,24 @@
+{
+  "token": "MTU3MDE2MDY2NDkwMTU4MjkzOA.GxxA31.1KiJZ3kqsPcchh1sdMyyeM5ohzh8Mg_M3Ul7DE",
+  "application_id": "1570160664901582938",
+  "guild_id": "1570153649890656387",
+  "tesseract_cmd": "C:/Program Files/Tesseract-OCR/tesseract.exe",
+  "audit_channel_id": "1570208689514741961",
+  "language": "pl",
+  "ocr_language": "eng",
+  "ocr_layout": "auto",
+  "ocr_profiles": {
+    "auto": {
+      "language": "eng",
+      "layout": "auto"
+    },
+    "dashboard": {
+      "language": "eng",
+      "layout": "auto"
+    },
+    "transaction-card": {
+      "language": "eng",
+      "layout": "transaction-card"
+    }
+  }
+}
